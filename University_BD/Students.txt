@@ -1,0 +1,9 @@
+8
+Rybkin F A 22 8 2000 m Sadovaya_str. Rybkin J F Rybkina K M 5 smth
+Nosova A B 13 10 2004 f Keknaya_str. Nos G F Nos W A 1 anth
+Kostrova J K 10 10 2010 f Tulskaya_str. Kostrov A M Kostrova B A 6 cool
+Mironov L K 24 12 2001 m Chekhova_str. Mironov K J Mironova B N 4 vvvv
+Mirnaya L O 12 12 2002 f Pushkina_str. Push A F Push M I 5 dd
+Morozov Q S 2 9 2003 m Kremnieva_str. Moroz F M Ded P E 8 da
+Sidorova F V 12 3 2009 f Sadovaya_str. Sidor F V Sid O R 5 ok
+Test Ing Student 10 10 2010 f Idk T E S T O K 1 kek

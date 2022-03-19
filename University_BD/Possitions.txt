@@ -1,0 +1,6 @@
+5
+1 Director 30000 do smth
+2 Teacher 40000 doing anything
+3 Driver 50000 driving car
+4 Cleaner 10000 cleaning windows
+5 Trainee 25000 learing something

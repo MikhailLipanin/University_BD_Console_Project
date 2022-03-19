@@ -1,0 +1,7 @@
+6
+1 Math High 6
+2 Russian language 4
+3 French language 8
+4 Computer Science 1
+5 Italian language 7
+6 Physical education 5

@@ -1,0 +1,9 @@
+8
+1 Ivanov Ivan Ivanovich 20 m Ivanova_str. +2281337 1313 228337 6
+2 Petrov A P 54 m Petrova_str. 89123132213 2727 123456 8
+3 Sidorova S T 21 f Pushkina_str. 121233999 2222 333333 1
+4 Makova M F 19 f Sadovaya_str. 123123123 9898 134124 8
+5 Azbukova A V 41 f Lenina_str. 9741214 5454 545454 1
+6 Jukov A A 35 m Chekhova_str. 1293812 3333 333333 5
+7 Dedov K F 99 m Petrova_str. 912739123 8811 234521 7
+8 Novikova M M 10 f Novaya_str. 1283128 1352 123123 6
